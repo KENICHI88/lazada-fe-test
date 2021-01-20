@@ -11,7 +11,9 @@ In this front project: I use:
   - reactjs, redux, redux-thunk, react-router-dom
   - react-lazyload, axios
 
+
 Separate UI components and Container components
+This code hasn't had unit test yet
 
 ----------------------
 ## BACK side:
