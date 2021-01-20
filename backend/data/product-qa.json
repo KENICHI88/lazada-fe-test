@@ -1,0 +1,119 @@
+{
+  "data" : [
+    {
+      "itemId" : "qa-1",
+      "content": "20kg 1m3 size gì v shop",
+      "type" : "question",
+      "user" : "Anonymous",
+      "date" : "1 day ago",
+      "answers": [
+        {
+          "itemId" : "qa-1-1",
+          "user" : "Moderator",
+          "content" : "sem fringilla ut morbi tincidunt augue interdum",
+          "type" : "anwser",
+          "date" : "2 hours ago"
+        }
+      ]
+    },
+    {
+      "itemId" : "qa-2",
+      "content": "20kg 1m3 size gì v shop",
+      "type" : "question",
+      "user" : "Anonymous",
+      "date" : "1 day ago",
+      "answers": [
+        {
+          "itemId" : "qa-2-1",
+          "user" : "Moderator",
+          "content" : "facilisis volutpat est velit egestas dui id ornare arcu odio ut sem nulla",
+          "type" : "anwser",
+          "date" : "2 hours ago"
+        }
+      ]
+    },
+    {
+      "itemId" : "qa-3",
+      "content": "20kg 1m3 size gì v shop",
+      "type" : "question",
+      "user" : "Anonymous",
+      "date" : "1 day ago",
+      "answers": [
+        {
+          "itemId" : "qa-3-1",
+          "user" : "Moderator",
+          "content" : "donec massa sapien faucibus et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi",
+          "type" : "anwser",
+          "date" : "2 hours ago"
+        }
+      ]
+    },
+    {
+      "itemId" : "qa-4",
+      "content": "20kg 1m3 size gì v shop",
+      "type" : "question",
+      "user" : "Anonymous",
+      "date" : "1 day ago",
+      "answers": [
+        {
+          "itemId" : "qa-4-1",
+          "user" : "Moderator",
+          "content" : "adipiscing enim eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus",
+          "type" : "anwser",
+          "date" : "2 hours ago"
+        }
+      ]
+    },
+    {
+      "itemId" : "qa-5",
+      "content": "20kg 1m3 size gì v shop",
+      "type" : "question",
+      "user" : "Anonymous",
+      "date" : "1 day ago",
+      "answers": [
+        {
+          "itemId" : "qa-5-1",
+          "user" : "Moderator",
+          "content" : "bibendum at varius vel pharetra vel turpis nunc eget lorem dolor sed viverra",
+          "type" : "anwser",
+          "date" : "2 hours ago"
+        }
+      ]
+    },
+    {
+      "itemId" : "qa-6",
+      "content": "20kg 1m3 size gì v shop",
+      "type" : "question",
+      "user" : "Anonymous",
+      "date" : "1 day ago",
+      "answers": [
+        {
+          "itemId" : "qa-6-1",
+          "user" : "Moderator",
+          "content" : "senectus et netus et malesuada fames ac turpis egestas sed tempus urna et",
+          "type" : "anwser",
+          "date" : "2 hours ago"
+        }
+      ]
+    },
+    {
+      "itemId" : "qa-7",
+      "content": "20kg 1m3 size gì v shop",
+      "type" : "question",
+      "user" : "Anonymous",
+      "date" : "1 day ago",
+      "answers": [
+        {
+          "itemId" : "qa-7-1",
+          "user" : "Moderator",
+          "content" : "sem viverra aliquet eget sit amet tellus cras adipiscing enim eu turpis egestas",
+          "type" : "anwser",
+          "date" : "2 hours ago"
+        }
+      ]
+    }
+  ],
+  "totalItem" : 7,
+  "pageSize" : 3,
+  "totalPage" : 3
+}

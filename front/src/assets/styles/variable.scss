@@ -1,0 +1,28 @@
+// Color variables
+$whiteColor: #fff;
+$blackColor: #000;
+$textColor: #cfcfcf;
+$highLightColor: #f36f36;
+$orangeColor: #f57224;
+$grayColor: #f4f4f6;
+$grayColor2: #9e9e9e;
+$grayColor3: #fafafa;
+$redColor: #ff330c;
+$blueColor: #25a5d8;
+
+// grid
+$screen-xxs: 320px;
+$screen-xs: 414px;
+$screen-sm: 576px;
+$screen-md: 768px;
+$screen-lg: 992px;
+$screen-xlg: 1200px;
+$screen-mxlg: 1400px;
+$screen-xxlg: 1920px;
+
+$screen-xs-up: ($screen-sm - 1px);
+$screen-sm-up: ($screen-md - 1px);
+$screen-md-up: ($screen-lg - 1px);
+$screen-hd-up: ($screen-xxlg - 1px);
+
+// mixin

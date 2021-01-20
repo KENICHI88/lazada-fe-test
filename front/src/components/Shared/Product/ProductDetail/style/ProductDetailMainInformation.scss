@@ -1,0 +1,103 @@
+@import '../../../../../assets/styles/importFile.scss';
+
+.product {
+  &__price {
+    &-orange {
+      color: $orangeColor;
+    }
+    &-gray {
+      color: $grayColor2;
+    }
+    &-linethrough {
+      text-decoration: line-through;
+    }
+    &-size_xs {
+      font-size: 14px;
+    }
+  }
+  
+}
+
+.product-detail {
+  &__gallery {
+    &__container {
+      padding: 5px;
+    }
+  }
+  &__main-information {
+    &__wrapper {
+      background-color: $whiteColor;
+      margin-bottom: 10px;
+    }
+  }
+  &__title {
+    font-size: 22px;
+  }
+  &__short-infor {
+    padding: 5px;
+    &__price {
+      &__highlight {
+        font-size: 30px;
+      }
+    }
+  }
+  &__seller__delivery {
+    background: #fafafa;
+  }
+}
+
+.seller {
+  &__delivery {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+.delivery {
+  &__location {
+    padding-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    .location {
+      &__icon {
+        margin-right: 10px;
+      }
+    }
+  }
+  
+  &__options {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  &__option {
+    &__item {
+      display: flex;
+      flex-direction: row;
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+    &__icon {
+      flex-basis: 24px;
+      margin-right: 10px;
+    }
+    &__info {
+      flex: 1 1 auto;
+    }
+    &__shipping-fee {
+      font-weight: 600;
+    }
+  }
+}
+
+
+@include tablet-up {
+  .product-detail {
+    &__main-information {
+      &__wrapper {
+        display: flex;
+        flex-direction: row;
+      }
+    }
+  }
+}

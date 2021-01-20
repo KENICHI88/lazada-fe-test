@@ -1,0 +1,239 @@
+{
+  "data" : [
+    {
+      "id" : "preview-1",
+      "user" : "User 1",
+      "rating" : 4,
+      "comment" : "Lorem ipsum dolor sit amet, Integer ac tristique lectus, at faucibus neque. Vestibulum ultricies at massa non efficitur. Vivamus eu nunc est. Phasellus rutrum elementum risus a convallis",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-2",
+      "user" : "User 2",
+      "rating" : 4,
+      "comment" : "Nam et mi id tellus lacinia sollicitudin et ac elit. Pellentesque sollicitudin, massa vel elementum porttitor, quam mi bibendum risus, sed varius mi nunc ac quam.",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-3",
+      "user" : "User 32",
+      "rating" : 2,
+      "comment" : "Mauris sollicitudin, enim eget tincidunt bibendum, neque orci rutrum nisl, et vehicula quam nunc quis felis. Nullam eget blandit ligula. Etiam non ligula dui",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-4",
+      "user" : "User 4",
+      "rating" : 2,
+      "comment" : "Pellentesque habitant morbi tristique senectus et netus",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },{
+      "id" : "preview-5",
+      "user" : "User 1",
+      "rating" : 4,
+      "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac tristique lectus, at faucibus neque. Vestibulum ultricies at massa non efficitur. Vivamus eu nunc est. Phasellus rutrum elementum risus a convallis",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-6",
+      "user" : "User 2",
+      "rating" : 4,
+      "comment" : "Nam et mi id tellus lacinia sollicitudin et ac elit. Pellentesque sollicitudin, massa vel elementum porttitor, quam mi bibendum risus, sed varius mi nunc ac quam.",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-7",
+      "user" : "User 32",
+      "rating" : 2,
+      "comment" : "Mauris sollicitudin, enim eget tincidunt bibendum, neque orci rutrum nisl, et vehicula quam nunc quis felis. Nullam eget blandit ligula. Etiam non ligula dui",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-8",
+      "user" : "User 4",
+      "rating" : 2,
+      "comment" : "Pellentesque habitant morbi tristique senectus et netus",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },{
+      "id" : "preview-9",
+      "user" : "User 1",
+      "rating" : 4,
+      "comment" : "Lorem ipsum dolor sit amet. Vivamus eu nunc est. Phasellus rutrum elementum risus a convallis",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-10",
+      "user" : "User 2",
+      "rating" : 4,
+      "comment" : "Nam et mi id tellus lacinia sollicitudin et ac elit. Pellentesque sollicitudin, massa vel elementum porttitor, quam mi bibendum risus, sed varius mi nunc ac quam.",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },{
+      "id" : "preview-11",
+      "user" : "User 1",
+      "rating" : 4,
+      "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac tristique lectus, at faucibus neque. Vestibulum ultricies at massa non efficitur. Vivamus eu nunc est. Phasellus rutrum elementum risus a convallis",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-12",
+      "user" : "User 2",
+      "rating" : 4,
+      "comment" : "Nam et mi id tellus lacinia sollicitudin et ac elit. Pellentesque sollicitudin, massa vel elementum porttitor, quam mi bibendum risus, sed varius mi nunc ac quam.",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-13",
+      "user" : "User 32",
+      "rating" : 2,
+      "comment" : "Mauris sollicitudin, enim eget, et vehicula quam nunc quis felis. Nullam eget blandit ligula. Etiam non ligula dui",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-14",
+      "user" : "User 4",
+      "rating" : 2,
+      "comment" : "Pellentesque habitant morbi tristique senectus et netus",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },{
+      "id" : "preview-15",
+      "user" : "User 1",
+      "rating" : 4,
+      "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac tristique lectus, at faucibus neque. Vestibulum ultricies at massa non efficitur. Vivamus eu nunc est. Phasellus rutrum elementum risus a convallis",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-16",
+      "user" : "User 2",
+      "rating" : 4,
+      "comment" : "Nam et mi id tellus lacinia sollicitudin et ac elit. Pellentesque sollicitudin, massa vel elementum porttitor, quam mi bibendum risus, sed varius mi nunc ac quam.",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-17",
+      "user" : "User 32",
+      "rating" : 2,
+      "comment" : "Mauris sollicitudin, enim eget tincidunt bibendum, neque orci rutrum nisl, blandit ligula. Etiam non ligula dui",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-18",
+      "user" : "User 4",
+      "rating" : 2,
+      "comment" : "Pellentesque habitant morbi tristique senectus et netus",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },{
+      "id" : "preview-19",
+      "user" : "User 1",
+      "rating" : 4,
+      "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac tristique lectus, at faucibus neque. Vestibulum ultricies at massa non efficitur. Vivamus eu nunc est. Phasellus rutrum elementum risus a convallis",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-20",
+      "user" : "User 2",
+      "rating" : 4,
+      "comment" : "Nam et mi id tellus lacinia sollicitudin et ac elit. Pellentesque sollicitudin, massa vel elementum porttitor, quam mi bibendum risus, sed varius mi nunc ac quam.",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },{
+      "id" : "preview-21",
+      "user" : "User 1",
+      "rating" : 4,
+      "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac tristique lectus, at faucibus neque. Vestibulum ultricies at massa non efficitur, convallis",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-22",
+      "user" : "User 2",
+      "rating" : 4,
+      "comment" : "Nam et mi id tellus lacinia sollicitudin et ac elit. Pellentesque sollicitudin, massa vel elementum porttitor, quam mi bibendum risus, sed varius mi nunc ac quam.",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-23",
+      "user" : "User 32",
+      "rating" : 2,
+      "comment" : "Mauris sollicitudin, enim eget tincidunt bibendum, neque orci rutrum nisl, et vehicula quam nunc quis felis. Nullam eget blandit ligula. Etiam non ligula dui",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-24",
+      "user" : "User 4",
+      "rating" : 2,
+      "comment" : "Pellentesque habitant morbi tristique senectus et netus",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },{
+      "id" : "preview-25",
+      "user" : "User 1",
+      "rating" : 4,
+      "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit a convallis",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-26",
+      "user" : "User 2",
+      "rating" : 4,
+      "comment" : "Nam et mi id tellus lacinia sollicitudin et ac elit. Pellentesque sollicitudin, massa vel elementum porttitor, quam mi bibendum risus, sed varius mi nunc ac quam.",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-27",
+      "user" : "User 32",
+      "rating" : 2,
+      "comment" : "Mauris sollicitudin, enim eget tincidunt bibendum, neque orci rutrum nisl, et vehicula quam nunc quis felis. Nullam eget blandit ligula. Etiam non ligula dui",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-28",
+      "user" : "User 4",
+      "rating" : 2,
+      "comment" : "Pellentesque habitant morbi tristique senectus et netus",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },{
+      "id" : "preview-29",
+      "user" : "User 1",
+      "rating" : 4,
+      "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac tristique lectus, at faucibus neque. Vestibulum ultricies at massa non efficitur. Vivamus eu nunc est. Phasellus rutrum elementum risus a convallis",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    },
+    {
+      "id" : "preview-30",
+      "user" : "User 2",
+      "rating" : 4,
+      "comment" : "Nam et mi id tellus lacinia sollicitudin et ac elit. Pellentesque sollicitudin, massa vel elementum porttitor, quam mi bibendum risus, sed varius mi nunc ac quam.",
+      "reviewDate" : "1 day ago",
+      "skuInfo": "Black color, Big size"
+    }
+  ],
+  "totalItem" : 30,
+  "pageSize" : 3,
+  "totalPage" : 10
+}

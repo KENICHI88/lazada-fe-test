@@ -1,0 +1,11 @@
+.breadcrumb {
+  
+  &-item {
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 13px;
+    font-weight: 300;
+    height: 48px;
+  }
+}

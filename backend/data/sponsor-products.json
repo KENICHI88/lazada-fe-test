@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "itemTitle": "BODY LÔNG GẤU CHO BÉ",
+      "itemDiscount": "36%",
+      "itemId": "245441246",
+      "itemImg": "https://vn-live-01.slatic.net/original/5edcab2d2fdb05f570f528dc0add16fd.jpg",
+      "itemRatingScore": 0,
+      "itemDiscountPrice": "160,000",
+      "currency": "₫",
+      "itemPrice": "250,000"
+    },
+    {
+      "itemTitle": "quần kaki rách cho bé trai( ảnh thật)",
+      "itemDiscount": "43%",
+      "itemId": "249192153",
+      "itemImg": "https://vn-live-01.slatic.net/original/adffa56dd4b5f99ae62540e7471f6f5c.jpg",
+      "itemRatingScore": 0,
+      "itemReviews": 0,
+      "itemDiscountPrice": "45,000",
+      "itemPrice": "79,000"
+    },
+    {
+      "itemTitle": "ÁO CHOÀNG TRẺ EM HÀN QUỐC",
+      "itemId": "233651379",
+      "itemImg": "https://vn-live-01.slatic.net/original/65e68a0f976cf7eb171894146f0f20ee.jpg",
+      "itemRatingScore": 4.9,
+      "itemReviews": 26,
+      "itemDiscountPrice": "176,000",
+      "itemSellerSegments": [],
+      "currency": "₫",
+      "itemPrice": "250,000"
+    }
+  ]
+}

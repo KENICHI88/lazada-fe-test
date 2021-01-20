@@ -1,0 +1,54 @@
+.pagination {
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul.pagination li {
+  background-color: $grayColor;
+  display: inline-block;
+  min-width: 30px;
+  border: 1px solid $grayColor;
+  justify-content: center;
+  font-size: 14px;
+  cursor: pointer;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+ul.pagination li a {
+  display: block;
+  padding: 6px 8px;
+  text-decoration: none;
+  color: $blueColor;
+  font-size: 14px;
+  &:focus {
+    outline: none;
+  }
+}
+
+ul.pagination li.active a {
+  color: white;
+}
+ul.pagination li.active {
+  background-color: #337ab7;
+}
+
+ul.pagination li a:hover,
+ul.pagination li a.active {
+  color: blue;
+}
+
+.page-selection {
+  width: 48px;
+  height: 30px;
+  color: #337ab7;
+}
+
+.pagination-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}

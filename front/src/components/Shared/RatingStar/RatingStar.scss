@@ -1,0 +1,20 @@
+@import '../../../assets//styles/importFile.scss';
+
+.rating-star {
+  .rating-star__icon {
+    width: 32px;
+  }
+  &.size-xs {
+    .rating-star__icon {
+      width: 16px;
+    }
+  }
+}
+
+@include tablet-up {
+  .rating-star {
+    .rating-star__icon {
+      width: 48px;
+    }
+  }
+}
